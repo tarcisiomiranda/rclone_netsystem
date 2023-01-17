@@ -1,7 +1,12 @@
 ## Documentations
-!(https://rclone.org/flags/)
-!(https://rclone.org/commands/)
-!(https://forum.rclone.org/t/help-with-filtering-excluding-syntax-please/12005/18)
+***FLAGS***
+<a href="https://rclone.org/flags/">Flags Rclone</a>
+
+***COMMANDS***
+<a href="https://rclone.org/flags/">Command Rclone</a>
+
+***SYNTAX***
+<a href="https://forum.rclone.org/t/help-with-filtering-excluding-syntax-please/12005/18">Exclude Cloudflare</a>
 
 
 ### Crontab
